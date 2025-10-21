@@ -14,7 +14,7 @@ Este template permite acompanhar o desempenho, status e disponibilidade do equip
 - Sessões ativas  
 - Estado dos serviços  
 - Status de HA (High Availability)  
-- Temperatura e estado do sistema  
+- Estado do sistema  
 
 ---
 
