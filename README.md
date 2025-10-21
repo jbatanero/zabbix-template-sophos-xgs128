@@ -1,6 +1,6 @@
 # 🧩 Template Zabbix – Sophos XGS 128 (SNMP)
 
-Template desenvolvido para monitoramento do **firewall Sophos XGS 128** via **SNMP**, compatível com **Zabbix 6.x / 7.x**.
+Template desenvolvido para monitoramento do **firewall Sophos XGS 128** via **SNMP**, compatível com **Zabbix 5.x**.
 
 Este template permite acompanhar o desempenho, status e disponibilidade do equipamento diretamente no Zabbix, facilitando o monitoramento proativo da sua infraestrutura.
 
